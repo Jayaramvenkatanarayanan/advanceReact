@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "description": "Sick Fits! An example React, GraphQL, Next and Apollo",
+  "description": "advance react concepts with next js ( learning apollo client )",
   "main": "index.js",
   "scripts": {
     "dev": "next -p 7777",
