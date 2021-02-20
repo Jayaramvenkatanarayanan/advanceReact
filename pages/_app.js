@@ -1,11 +1,11 @@
 import ProType from 'prop-types';
-import Header from '../componet/Header';
+import Page from '../componet/Page';
 
 function MyApp({ Component, pageProps }) {
   return (
-    <Header>
+    <Page>
       <Component {...pageProps} />
-    </Header>
+    </Page>
   );
 }
 MyApp.propTypes = {
